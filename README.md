@@ -1,2 +1,2 @@
-# whatsappdevelopment2008
+# WhatsUpDevelopment
 This repository is to develop a chat application
